@@ -1183,6 +1183,11 @@
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-alpha.54.tgz#21a26427a70c0cda9fd5518d43674809279dc648"
   integrity sha512-re0N/2fN45TSbG1OQGDLDmrcL6ntWVOklTH02vqtqoScX7QVkK9ggS6kOG1WMuq9G4+O/Qygkr19D1ZRwV7Wgw==
 
+"@docusaurus/plugin-google-gtag@^2.0.0-alpha.60":
+  version "2.0.0-alpha.60"
+  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-alpha.60.tgz#cfd4794b545933c083c205c423d115efc1189a13"
+  integrity sha512-snXUP4za8BjBf/UycuElwoj/p+pdJWVzS9Qo54sbXW91G9vb6DzMI1DDpkGBc7yaR9Gy7aqhEQCHuzvZYX12zA==
+
 "@docusaurus/plugin-sitemap@^2.0.0-alpha.54":
   version "2.0.0-alpha.54"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-sitemap/-/plugin-sitemap-2.0.0-alpha.54.tgz#7aa4a86b90667e9c5befdfe085f8c2286be27e11"
